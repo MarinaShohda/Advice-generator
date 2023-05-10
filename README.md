@@ -25,7 +25,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/random-advice-generator-using-ajax-ZMbnNVtRHf
 - Live Site URL: https://marinashohda.github.io/MarinaShohda.Advice-generator/
 
 
