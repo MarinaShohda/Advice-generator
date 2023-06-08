@@ -39,19 +39,26 @@ body {
 }
 
 
-
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .dice {
     background-color: hsl(150, 100%, 66%);
     display: inline-block;
     padding: 1.3em 1.3em;
     border-radius: 2.5em;
-    transform: translate(0%, 80%);
+    transform: translate(0%, 90%);
     border: none;
 }
 .dice:hover {
     box-shadow: 0 0 30px 1px hsl(150, 100%, 66%);
     cursor: pointer;
 }
+
+
+
 .attribution { 
     position: absolute;
     top: 98%;
@@ -86,4 +93,5 @@ body {
         display: none;
     }
 }
+
 
